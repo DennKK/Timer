@@ -1,3 +1,3 @@
 TIMER
 =====================
-Requirement: pyglet, win10toast
+Requirements: pyglet, win10toast
